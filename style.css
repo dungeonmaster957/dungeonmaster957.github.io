@@ -1,0 +1,97 @@
+﻿body {
+    font-family: sans-serif;
+}
+.qwa {
+    color: SlateBlue;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 5px solid lightblue; 
+}
+
+ header a{
+     margin: 5px;
+     padding: 3px;
+     border-radius: 10px;
+     border: 4px solid  darkblue;
+     background-color: darkblue;
+     color: white;
+     text-decoration: none;
+
+ }
+
+ .tyt{
+     color:  LightSeaGreen;
+     margin:  20px;
+     text-align: center ;
+
+ }
+
+.chacha{
+color:darkgrey; 
+ background-color:    gainsboro;
+
+}
+
+.cachatwo {
+color:darkgrey;
+background-color:    gainsboro;
+}
+
+.chachathree{
+color:darkgrey;
+background-color:    gainsboro;
+
+}
+
+footer p{
+    padding: 15px;
+    margin: 10px;
+}
+
+footer{
+    background-color:  aqua;
+    padding: 5px;
+     
+}
+
+nav a{
+    text-decoration: none;
+    color: gray;
+    border: ;
+}
+nav{
+    text-align: center;
+}
+
+ 
+.ij {
+border:4px solid darkblue ;
+border-radius: 10px;
+padding: 7px;
+}
+
+.bruh{
+    color:blue;
+}
+
+.gyr{
+    border: 1px solid cyan;
+    border-radius: 10px;
+}
+
+.dert{
+    color: blue;
+}
+
+.fad{
+    text-decoration: none;
+    border: 3px solid darkblue ;
+    border-radius: 0px;
+    padding: 5px;
+
+}
+
+.uuu{
+    color: blue;
+}
